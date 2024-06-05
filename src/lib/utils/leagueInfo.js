@@ -23,7 +23,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 export const managers = [
     {
       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "461417126498922496,
+      "managerID" : "461417126498922496",
       "name": "Alex Tate",
       "location": "CG", // (optional)
       "bio": "The Kodfather",
