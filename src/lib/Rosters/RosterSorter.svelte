@@ -37,7 +37,7 @@
 	}
 
 	.banner {
-		display: block;
+		display: flex;
 		align-items: right;
 		justify-content: right;
 		height: 150px;
