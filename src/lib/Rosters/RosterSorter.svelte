@@ -13,7 +13,7 @@
 
 	for(let i = 0; i < numDivisions; i++) {
 		divisions.push({
-			name: leagueData.metadata ? leagueData.metadata[`division_${i + 1}`] : null,
+			// name: leagueData.metadata ? leagueData.metadata[`division_${i + 1}`] : null,
 			rosters: [],
 		})
 	}
