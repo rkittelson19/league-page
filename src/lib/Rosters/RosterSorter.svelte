@@ -29,7 +29,7 @@
 
 <style>
 	.division {
-		display: flex;
+		display: block;
 		justify-content: space-around;
 		flex-wrap: wrap;
 		margin: 10px auto 20px;
@@ -37,9 +37,9 @@
 	}
 
 	.banner {
-		display: flex;
+		display: block;
 		align-items: right;
-		justify-content: center;
+		justify-content: right;
 		height: 150px;
 		width: 790px;
 		border-radius: 40px;
