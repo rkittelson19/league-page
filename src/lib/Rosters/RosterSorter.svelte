@@ -29,7 +29,7 @@
 
 <style>
 	.division {
-		display: block;
+		display: flex;
 		justify-content: space-around;
 		flex-wrap: wrap;
 		margin: 10px auto 20px;
