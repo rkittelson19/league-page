@@ -59,7 +59,7 @@
 	}
 
 	.banner-D-3 {
-		background-image: url("/division-3-banner.png");
+		background-image: url("/outkast.png");
 		background-position: left; 
 	}
 
