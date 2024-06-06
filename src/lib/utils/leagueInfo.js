@@ -156,7 +156,7 @@ export const managers = [
       {
       "roster": 7,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "554100930607976448",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-      "name": "Josh",
+      "name": "Josh Dobbs",
       "location": "Hoodbury", // (optional)
       "bio": "Josh's team needs some help in the draft.",
       "photo": "/managers/josh.png", // square ratio recommended (no larger than 500x500)
