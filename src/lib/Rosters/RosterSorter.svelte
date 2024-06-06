@@ -13,7 +13,7 @@
 
 	for(let i = 0; i < numDivisions; i++) {
 		divisions.push({
-			// name: leagueData.metadata ? leagueData.metadata[`division_${i + 1}`] : null,
+			name: leagueData.metadata ? leagueData.metadata[`division_${i + 1}`] : null,
 			rosters: [],
 		})
 	}
@@ -129,7 +129,7 @@
 {#each divisions as division, ix}
 	{#if division.name}
 		<div class="banner banner-D-{ix + 1}">
-			// <h2>{division.name}</h2>
+			<h2>HELLO</h2>
 		</div>
 	{/if}
 	<div class="division">
