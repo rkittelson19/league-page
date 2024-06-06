@@ -66,11 +66,17 @@ export const tabs = [
                 label: 'Constitution',
                 dest: '/constitution',
             },
+            // {
+            //     icon: 'view_comfy',
+            //     label: 'Draft Tool',
+            //     dest: '/drafttool',
+            // },
             {
                 icon: 'sports_football',
                 label: 'Go to Sleeper',
                 dest: `https://sleeper.app/leagues/${leagueID}`,
             },
+            
         ]
     },
     {
