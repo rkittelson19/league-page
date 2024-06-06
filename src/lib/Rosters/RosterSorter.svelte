@@ -38,10 +38,10 @@
 
 	.banner {
 		display: flex;
-		align-items: center;
+		align-items: right;
 		justify-content: center;
-		height: 140px;
-		width: 400px;
+		height: 150px;
+		width: 770px;
 		border-radius: 40px;
 		margin: 10px auto;
 		background-repeat: no-repeat;
