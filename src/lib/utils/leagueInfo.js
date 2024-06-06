@@ -221,11 +221,11 @@ export const managers = [
     },
 	{
       "roster": 10,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "554100930607976448",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-      "name": "Josh",
+      "managerID": "1049051419367596032",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+      "name": "Mike Sachs",
       "location": "Hoodbury", // (optional)
       "bio": "Josh's team needs some help in the draft.",
-      "photo": "/managers/josh.png", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/sachs.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "mia", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -243,11 +243,11 @@ export const managers = [
     },
       {
       "roster": 11,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "564253483975512064",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-      "name": "Nate Erickson",
+      "managerID": "564857642022969344",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+      "name": "Wes Orde",
       "location": "The Streets", // (optional)
       "bio": "Nate made some win-now moves last year, but had some horrible luck at the end of the year. His team is ready to reload and go at it again this year!",
-      "photo": "/managers/nate.png", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/wes.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "mia", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -265,8 +265,8 @@ export const managers = [
     },
       {
       "roster": 12,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "554114850162020352",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-      "name": "Carson Webb",
+      "managerID": "812391016865878016",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+      "name": "Robby Severson",
       "location": "CG", // (optional)
       "bio": "Carson is in a rebuild, but is ready to move past it and prove he's the stronger Webb in this league!",
       "photo": "/managers/carson.png", // square ratio recommended (no larger than 500x500)
