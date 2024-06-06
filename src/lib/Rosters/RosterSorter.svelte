@@ -49,12 +49,12 @@
 	}
 
 	.banner-D-1 {
-		background-image: url("/division-1-banner.png");
+		background-image: url("/shutterbug.png");
 		background-position: left; 
 	}
 
 	.banner-D-2 {
-		background-image: url("/division-2-banner.png");
+		background-image: url("/atl.png");
 		background-position: right; 
 	}
 
