@@ -41,7 +41,7 @@
 		align-items: right;
 		justify-content: center;
 		height: 150px;
-		width: 770px;
+		width: 790px;
 		border-radius: 40px;
 		margin: 10px auto;
 		background-repeat: no-repeat;
