@@ -50,17 +50,17 @@
 
 	.banner-D-1 {
 		background-image: url("/shutterbug2.png");
-		background-position: left; 
+		background-position: center; 
 	}
 
 	.banner-D-2 {
 		background-image: url("/atl2.png");
-		background-position: right; 
+		background-position: center; 
 	}
 
 	.banner-D-3 {
 		background-image: url("/outkast2.png");
-		background-position: left; 
+		background-position: center; 
 	}
 
 	h2 {
@@ -90,7 +90,7 @@
 		}
 
 		h2 {
-			font-size: 2em;
+			font-size: 1px;
 		}
 	}
 
