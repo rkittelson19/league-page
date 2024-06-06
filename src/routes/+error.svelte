@@ -28,7 +28,7 @@
 
 <div class="main">
     <h4>
-        Hut, Hut, Blue 404!
+        These are not the droids you're looking for! We have reached an critical error! 404!
     </h4>
     <div class='footballHolder'>
         <img class='football' src='/deflated-football.png' alt='deflated football' />
