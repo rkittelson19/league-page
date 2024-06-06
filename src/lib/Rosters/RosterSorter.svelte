@@ -49,17 +49,17 @@
 	}
 
 	.banner-D-1 {
-		background-image: url("/shutterbug.png");
+		background-image: url("/shutterbug2.png");
 		background-position: left; 
 	}
 
 	.banner-D-2 {
-		background-image: url("/atl.png");
+		background-image: url("/atl2.png");
 		background-position: right; 
 	}
 
 	.banner-D-3 {
-		background-image: url("/outkast.png");
+		background-image: url("/outkast2.png");
 		background-position: left; 
 	}
 
