@@ -5,6 +5,22 @@ import { dynasty } from './utils/helper';
     const today = new Date();
     const resources = [
         {
+            name: "Dynasty League Football",
+            url: "https://dynastyleaguefootball.com/",
+            icon: "insights",
+            premium: true,
+            separator: true,
+            dynastyOnly: true,
+        },
+        {
+            name: "KeepTradeCut Dynasty Football Trade Calculator",
+            url: "https://keeptradecut.com/trade-calculator",
+            icon: "calculate",
+            premium: false,
+            separator: true,
+            dynastyOnly: true,
+        },
+        {
             name: "FTN Fantasy",
             url: "https://www.ftnfantasy.com/nfl",
             icon: "insights",
@@ -12,10 +28,10 @@ import { dynasty } from './utils/helper';
             separator: true,
         },
         {
-            name: "The Fantasy Footballers",
-            url: "https://www.thefantasyfootballers.com/",
+            name: "The Football Database",
+            url: "https://www.footballdb.com/index.html",
             icon: "podcasts",
-            premium: true,
+            premium: false,
             separator: true,
         },
         {
@@ -26,22 +42,8 @@ import { dynasty } from './utils/helper';
             separator: true,
             dynastyOnly: true,
         },
-        {
-            name: "DynastyProcess Trade Calculator",
-            url: "https://apps.dynastyprocess.com/calculator/",
-            icon: "calculate",
-            premium: false,
-            separator: true,
-            dynastyOnly: true,
-        },
-        {
-            name: "Dynasty League Football",
-            url: "https://dynastyleaguefootball.com/",
-            icon: "insights",
-            premium: true,
-            separator: true,
-            dynastyOnly: true,
-        },
+        
+        
         {
             name: "Reddit Dynasty Fantasy Football",
             url: "https://www.reddit.com/r/DynastyFF/",
@@ -51,8 +53,8 @@ import { dynasty } from './utils/helper';
             dynastyOnly: true,
         },
         {
-            name: "Reddit Fantasy Football",
-            url: "https://www.reddit.com/r/fantasyfootball/",
+            name: "Statmuse",
+            url: "https://www.statmuse.com/",
             icon: "article",
             premium: false,
             separator: true,
@@ -63,14 +65,6 @@ import { dynasty } from './utils/helper';
             url: "https://dynasty101.com/trade-calculator/",
             icon: "calculate",
             premium: false,
-            separator: true,
-            dynastyOnly: true,
-        },
-        {
-            name: "Dynasty Nerds GM",
-            url: "https://gm.dynastynerds.com/",
-            icon: "insights",
-            premium: true,
             separator: true,
             dynastyOnly: true,
         },
